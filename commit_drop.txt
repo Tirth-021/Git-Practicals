@@ -1,1 +1,2 @@
 This line will remain unchanged after dropping a commit.
+This line will be dropped after dropping a commit. 
